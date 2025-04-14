@@ -1,0 +1,8 @@
+.venv/
+license.xml
+securesuite_token.json
+benchmarks*
+*.zip
+*.json
+available_benchmarks.json
+.DS_Store
