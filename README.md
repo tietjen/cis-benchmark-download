@@ -1,2 +1,5 @@
 # cis-benchmark-download
 Python scripts to access and download benchmark documentation in different formats from the CIS (Center for Internet Securtiy) portal.
+
+You need a licence file from the CIS download portal. Put the `license.xml` into the root of the checked out repo.
+
